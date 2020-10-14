@@ -590,7 +590,6 @@ main {
 
 .c-section-title {
     @include font-size(40px);
-    @include text-title-md;
     margin: 0 auto;
     max-width: $content-lg + $layout-lg * 2;
     padding: 0 $layout-sm;
